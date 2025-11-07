@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "resourceBaseName": {
-        "value": "tab${{RESOURCE_SUFFIX}}"
+        "value": "swa${{RESOURCE_SUFFIX}}"
       },
-      "webAppSku": {
-        "value": "F1"
+      "staticWebAppSku": {
+        "value": "Free"
       }
     }
   }
